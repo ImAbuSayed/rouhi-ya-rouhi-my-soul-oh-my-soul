@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا روحي تنادي في صمت الليالي
+> عيونك سماء ونجوم تلالي
+> أذوب اشتياقاً لسحر الجمالِ
+> وقلبي أسيرٌ بهذا الدلالِ
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
